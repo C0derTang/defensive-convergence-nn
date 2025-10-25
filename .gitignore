@@ -153,7 +153,6 @@ mlruns/
 *.jpeg
 *.gif
 *.svg
-*.pdf
 
 # Science fair materials (temporary files)
 science_fair_board.md
